@@ -15,21 +15,6 @@ We propose an iterative semantic decoding framework for reliable natural-languag
 
 We are preparing the implementation and will release it in this repository.
 
-## Model Weights
-
-The model weights are available on Hugging Face:
-
-**[jhao666/sec-iter-model](https://huggingface.co/jhao666/sec-iter-model)**
-
-*Note: Hugging Face sign-in and acceptance of the model access conditions may be required.*
-
-## Paper
-
-**Iterative Semantic Decoding for Short Block Codes**
-
-Jiafu Hao, Chentao Yue, Mingcheng Nie, Branka Vucetic, and Yonghui Li.
-
-📄 **[Read the paper on arXiv](https://arxiv.org/abs/2609.03256)**
 
 ## Citation
 
